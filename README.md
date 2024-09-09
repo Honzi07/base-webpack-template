@@ -14,7 +14,7 @@ This base template provides a solid foundation for starting new web projects usi
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone the repository: `git clone https://github.com/Honzi07/base-webpack-template.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Build for production: `npm run build`
